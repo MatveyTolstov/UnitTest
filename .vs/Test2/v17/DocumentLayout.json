@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Who\\source\\repos\\Test2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E84DB12E-EB8F-48C8-A220-85F1578B00D5}|TestProject1\\TestProject1.csproj|c:\\users\\who\\source\\repos\\test2\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84DB12E-EB8F-48C8-A220-85F1578B00D5}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B3B405-D140-4011-85FA-C63F17C19F73}|Test2\\Test2.csproj|c:\\users\\who\\source\\repos\\test2\\test2\\percentagecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B3B405-D140-4011-85FA-C63F17C19F73}|Test2\\Test2.csproj|solutionrelative:test2\\percentagecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B3B405-D140-4011-85FA-C63F17C19F73}|Test2\\Test2.csproj|c:\\users\\who\\source\\repos\\test2\\test2\\collectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B3B405-D140-4011-85FA-C63F17C19F73}|Test2\\Test2.csproj|solutionrelative:test2\\collectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B3B405-D140-4011-85FA-C63F17C19F73}|Test2\\Test2.csproj|c:\\users\\who\\source\\repos\\test2\\test2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B3B405-D140-4011-85FA-C63F17C19F73}|Test2\\Test2.csproj|solutionrelative:test2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PercentageCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Who\\source\\repos\\Test2\\Test2\\PercentageCalculator.cs",
+              "RelativeDocumentMoniker": "Test2\\PercentageCalculator.cs",
+              "ToolTip": "C:\\Users\\Who\\source\\repos\\Test2\\Test2\\PercentageCalculator.cs",
+              "RelativeToolTip": "Test2\\PercentageCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:32:11.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Who\\source\\repos\\Test2\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Who\\source\\repos\\Test2\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:47:34.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollectionTest.cs",
+              "DocumentMoniker": "C:\\Users\\Who\\source\\repos\\Test2\\Test2\\CollectionTest.cs",
+              "RelativeDocumentMoniker": "Test2\\CollectionTest.cs",
+              "ToolTip": "C:\\Users\\Who\\source\\repos\\Test2\\Test2\\CollectionTest.cs",
+              "RelativeToolTip": "Test2\\CollectionTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:47:00.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Who\\source\\repos\\Test2\\Test2\\Program.cs",
+              "RelativeDocumentMoniker": "Test2\\Program.cs",
+              "ToolTip": "C:\\Users\\Who\\source\\repos\\Test2\\Test2\\Program.cs",
+              "RelativeToolTip": "Test2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:46:33.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
